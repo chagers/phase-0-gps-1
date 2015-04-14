@@ -6,3 +6,4 @@ GPS 1 Repository
 `git push` - Send all commits to remote repository
 `git clone` - Copying a repository to your local machine
 `git checkout -b` - Create new branch in your repository
+`git status` - Check the current state of files in the repository
